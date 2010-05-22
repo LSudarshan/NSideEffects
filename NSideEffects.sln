@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSideEffects", "NSideEffects\NSideEffects.csproj", "{E0A1B177-225E-4688-8D15-03F7D187D87E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSideEffectsTest", "NSideEffectsTest\NSideEffectsTest.csproj", "{0A5E0425-0E64-4085-AA69-5F1EC3B09534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{DA749E4D-91A4-4E46-90F8-3A052EB65E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A1B177-225E-4688-8D15-03F7D187D87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A1B177-225E-4688-8D15-03F7D187D87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A1B177-225E-4688-8D15-03F7D187D87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A1B177-225E-4688-8D15-03F7D187D87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5E0425-0E64-4085-AA69-5F1EC3B09534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5E0425-0E64-4085-AA69-5F1EC3B09534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5E0425-0E64-4085-AA69-5F1EC3B09534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5E0425-0E64-4085-AA69-5F1EC3B09534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA749E4D-91A4-4E46-90F8-3A052EB65E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA749E4D-91A4-4E46-90F8-3A052EB65E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA749E4D-91A4-4E46-90F8-3A052EB65E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA749E4D-91A4-4E46-90F8-3A052EB65E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
